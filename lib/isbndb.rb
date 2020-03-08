@@ -1,6 +1,19 @@
+# vendors
+require 'httparty'
+require 'plissken'
+
+# helpers w/o dependencies
 require "isbndb/version"
 
-module Isbndb
-  class Error < StandardError; end
-  # Your code goes here...
+# auth classes
+require 'isbndb/api_client'
+
+# isbndb endpoints
+require 'isbndb/api/author'
+require 'isbndb/api/book'
+require 'isbndb/api/publisher'
+require 'isbndb/api/subject'
+
+module ISBNdb
+  class RequestError < StandardError; end
 end

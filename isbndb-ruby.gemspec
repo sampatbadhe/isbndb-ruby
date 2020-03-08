@@ -1,4 +1,3 @@
-
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "isbndb/version"
@@ -36,7 +35,16 @@ Gem::Specification.new do |spec|
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
+  spec.add_runtime_dependency 'httparty', '~> 0.13'
+  spec.add_runtime_dependency 'plissken', '~> 1.2'
+
   spec.add_development_dependency "bundler", "~> 1.17"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency 'simplecov'
+  spec.add_development_dependency 'coveralls'
+  spec.add_development_dependency 'pry', '~> 0.12'
+  spec.add_development_dependency 'rubocop', '~> 0.49.0'
+  spec.add_development_dependency 'webmock', '~> 2.1'
+  spec.add_development_dependency 'travis', '~> 1.8'
 end
