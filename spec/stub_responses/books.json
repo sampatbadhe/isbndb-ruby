@@ -1,0 +1,294 @@
+{
+  "total": 117619,
+  "books": [
+    {
+      "title": "Dead Weight: Severn House Publishers (a Neil Paget Mystery)",
+      "image": "https://images.isbndb.com/covers/67/43/9780727886743.jpg",
+      "title_long": "Dead Weight: Severn House Publishers (a Neil Paget Mystery)",
+      "date_published": "2017",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Smith",
+        "Frank"
+      ],
+      "isbn13": "9780727886743",
+      "edition": "1",
+      "publish_date": "2017",
+      "binding": "Hardcover",
+      "isbn": "0727886746"
+    },
+    {
+      "title": "Very Important Corpses: Severn House Publishers (an Ishmael Jones Mystery)",
+      "image": "https://images.isbndb.com/covers/77/46/9781847517746.jpg",
+      "title_long": "Very Important Corpses: Severn House Publishers (an Ishmael Jones Mystery)",
+      "date_published": "2018",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Green",
+        "Simon"
+      ],
+      "isbn13": "9781847517746",
+      "publish_date": "2018",
+      "binding": "Paperback",
+      "isbn": "1847517749"
+    },
+    {
+      "title": "Three Shot Burst: Severn House Publishers (a Foggy Moskowitz Mystery)",
+      "image": "https://images.isbndb.com/covers/66/37/9780727886637.jpg",
+      "title_long": "Three Shot Burst: Severn House Publishers (a Foggy Moskowitz Mystery)",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Phillip Depoy"
+      ],
+      "isbn13": "9780727886637",
+      "edition": "1",
+      "binding": "Hardcover",
+      "isbn": "0727886630"
+    },
+    {
+      "title": "Very Important Corpses: Severn House Publishers (an Ishmael Jones Mystery)",
+      "image": "https://images.isbndb.com/covers/67/12/9780727886712.jpg",
+      "title_long": "Very Important Corpses: Severn House Publishers (an Ishmael Jones Mystery)",
+      "date_published": "2017",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Simon R. Green"
+      ],
+      "isbn13": "9780727886712",
+      "msrp": "28.99",
+      "edition": "1",
+      "publish_date": "2017",
+      "binding": "Hardcover",
+      "isbn": "0727886711"
+    },
+    {
+      "title": "Very Important Corpses: Severn House Publishers (an Ishmael Jones Mystery)",
+      "image": "https://images.isbndb.com/covers/59/67/9780727895967.jpg",
+      "title_long": "Very Important Corpses: Severn House Publishers (an Ishmael Jones Mystery)",
+      "date_published": "2017-11-30",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Simon Green"
+      ],
+      "isbn13": "9780727895967",
+      "msrp": "36.95",
+      "binding": "Hardcover",
+      "isbn": "0727895966"
+    },
+    {
+      "title": "Transworld Publishers Ltd Q & A",
+      "image": "https://images.isbndb.com/covers/54/27/9780552775427.jpg",
+      "title_long": "Transworld Publishers Ltd Q & A",
+      "date_published": "2009",
+      "publisher": "Black Swan",
+      "authors": [
+        "Vikas Swaroop"
+      ],
+      "isbn13": "9780552775427",
+      "msrp": "30",
+      "publish_date": "2009",
+      "binding": "Paperback",
+      "isbn": "0552775428"
+    },
+    {
+      "title": "Morwennan House (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/34/77/9780727873477.jpg",
+      "title_long": "Morwennan House (severn House Large Print)",
+      "date_published": "2004",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Janet Tanner"
+      ],
+      "isbn13": "9780727873477",
+      "msrp": "29.95",
+      "publish_date": "2004",
+      "binding": "Hardcover",
+      "isbn": "0727873474"
+    },
+    {
+      "title": "House Of Secrets (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/18/48/9780727871848.jpg",
+      "title_long": "House Of Secrets (severn House Large Print)",
+      "date_published": "2002",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Helen Cannam"
+      ],
+      "isbn13": "9780727871848",
+      "msrp": "29.99",
+      "publish_date": "2002",
+      "binding": "Hardcover",
+      "isbn": "0727871846"
+    },
+    {
+      "title": "Wicca (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/12/13/9780727871213.jpg",
+      "title_long": "Wicca (severn House Large Print)",
+      "date_published": "2001",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "James Follett"
+      ],
+      "isbn13": "9780727871213",
+      "msrp": "29.99",
+      "publish_date": "2001",
+      "binding": "Hardcover",
+      "isbn": "0727871218"
+    },
+    {
+      "title": "Julia (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/23/33/9780727872333.jpg",
+      "title_long": "Julia (severn House Large Print)",
+      "date_published": "2003",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Cynthia Harrod-eagles"
+      ],
+      "isbn13": "9780727872333",
+      "msrp": "29.99",
+      "publish_date": "2003",
+      "binding": "Hardcover",
+      "isbn": "0727872338"
+    },
+    {
+      "title": "Unforgettable (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/20/98/9780727872098.jpg",
+      "title_long": "Unforgettable (severn House Large Print)",
+      "date_published": "2003",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Elisabeth Mcneill"
+      ],
+      "isbn13": "9780727872098",
+      "publish_date": "2003",
+      "binding": "Hardcover",
+      "isbn": "0727872095"
+    },
+    {
+      "title": "Bloodwood (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/64/09/9780727876409.jpg",
+      "title_long": "Bloodwood (severn House Large Print)",
+      "date_published": "2008",
+      "publisher": "Severn House Publishers",
+      "synopsys": "<p><p>a Dying Woman With Nothing To Lose Takes On Ruthless Enemies . . .when Antonia Lanchester Is Told She Has Only Months To Live, She Decides To Blow The Whistle On Her Employers. Masterpiece Home Design, An Upmarket Home Furnishing Company, Has Links To An Atrocity Committed By Illegal Loggers In Borneo. Antonia Hands Incriminating Files Over To An Environmental Campaign Group. Suddenly Powerful Interests Find Themselves Threatened With Exposure. Antonia Is Out Of Her Depth, Forced To Struggle Not Only Against Her Enemies But Also Against The Weakness Of Her Cancer-ridden Brain . . .</p>",
+      "authors": [
+        "Gillian Bradshaw"
+      ],
+      "isbn13": "9780727876409",
+      "publish_date": "2008",
+      "binding": "Hardcover",
+      "isbn": "0727876406"
+    },
+    {
+      "title": "Complicity (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/05/37/9780727870537.jpg",
+      "title_long": "Complicity (severn House Large Print)",
+      "date_published": "2001",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Jennie Melville"
+      ],
+      "isbn13": "9780727870537",
+      "publish_date": "2001",
+      "isbn": "072787053x"
+    },
+    {
+      "title": "Deception (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/37/50/9780727873750.jpg",
+      "title_long": "Deception (severn House Large Print)",
+      "date_published": "2004",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Claire Lorrimer"
+      ],
+      "isbn13": "9780727873750",
+      "isbn": "072787375x"
+    },
+    {
+      "title": "Storm (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/58/15/9780727875815.jpg",
+      "title_long": "Storm (severn House Large Print)",
+      "date_published": "2007",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Elisabeth Mcneill"
+      ],
+      "isbn13": "9780727875815",
+      "publish_date": "2007",
+      "binding": "Hardcover",
+      "isbn": "0727875817"
+    },
+    {
+      "title": "Rewind (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/14/66/9780727871466.jpg",
+      "title_long": "Rewind (severn House Large Print)",
+      "date_published": "2002",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Vivien Armstrong"
+      ],
+      "isbn13": "9780727871466",
+      "publish_date": "2002",
+      "binding": "Hardcover",
+      "isbn": "0727871463"
+    },
+    {
+      "title": "Lifelines (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/45/73/9780727874573.jpg",
+      "title_long": "Lifelines (severn House Large Print)",
+      "date_published": "2005",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Helen Cannam"
+      ],
+      "isbn13": "9780727874573",
+      "msrp": "29.95",
+      "publish_date": "2005",
+      "binding": "Hardcover",
+      "isbn": "0727874578"
+    },
+    {
+      "title": "Amy (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/42/38/9780727874238.jpg",
+      "title_long": "Amy (severn House Large Print)",
+      "date_published": "2005",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Linda Sole"
+      ],
+      "isbn13": "9780727874238",
+      "msrp": "28.95",
+      "publish_date": "2005",
+      "binding": "Hardcover",
+      "isbn": "0727874233"
+    },
+    {
+      "title": "Redcap (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/61/40/9780727876140.jpg",
+      "title_long": "Redcap (severn House Large Print)",
+      "date_published": "2007",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Brian Callison"
+      ],
+      "isbn13": "9780727876140",
+      "publish_date": "2007",
+      "binding": "Hardcover",
+      "isbn": "0727876147"
+    },
+    {
+      "title": "Jigsaw (severn House Large Print)",
+      "image": "https://images.isbndb.com/covers/42/76/9780727874276.jpg",
+      "title_long": "Jigsaw (severn House Large Print)",
+      "date_published": "2005",
+      "publisher": "Severn House Publishers",
+      "authors": [
+        "Anthea Fraser"
+      ],
+      "isbn13": "9780727874276",
+      "publish_date": "2005",
+      "binding": "Hardcover",
+      "isbn": "0727874276"
+    }
+  ]
+}

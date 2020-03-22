@@ -1,0 +1,302 @@
+{
+  "publisher": "Severn%20House%20Ltd",
+  "books": [
+    {
+      "publisher": "Severn House",
+      "title_long": "The Good Friday Murder",
+      "edition": "1",
+      "pages": 208,
+      "date_published": "1993",
+      "authors": [
+        "Syrell Leahy"
+      ],
+      "title": "The Good Friday Murder",
+      "isbn13": "9780727845580",
+      "isbn": "0727845586"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "Asking For It",
+      "authors": [
+        "Joan Taylor"
+      ],
+      "title": "Asking For It",
+      "isbn13": "9780727807564",
+      "isbn": "0727807560"
+    },
+    {
+      "publisher": "Severn House @",
+      "title_long": "Samson & The Greek Delilah",
+      "date_published": "1995",
+      "authors": [
+        "Miles Tripp"
+      ],
+      "title": "Samson & The Greek Delilah",
+      "isbn13": "9780727848598",
+      "isbn": "0727848593"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "Masques Two",
+      "pages": 224,
+      "date_published": "1989",
+      "authors": [
+        "J. N. Williamson (editor)"
+      ],
+      "title": "Masques Two",
+      "isbn13": "9780727840042",
+      "isbn": "0727840045"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "Scorpion East",
+      "edition": "1",
+      "pages": 352,
+      "date_published": "1987",
+      "authors": [
+        "Jerrold Morgulas"
+      ],
+      "title": "Scorpion East",
+      "isbn13": "9780727815088",
+      "isbn": "0727815083"
+    },
+    {
+      "publisher": "Severn House",
+      "synopsys": "<p>When Chandra Bansi and her baby are burnt to death, the police are anxious to get their race relations right. DCI Casey and his less than politically correct sergeant rapidly come under pressure from their superintendent to put a couple of skinhead thugs behind bars. But there are other, stranger possibilities--and Casey has some less than conventional ways of examining them...</p><h3>Kirkus Reviews</h3><p>Evans switches sleuths and settings, but not her m.o., in her latest examination of the politics of police work. Detective Superintendent Thomas Catt of the King's Langley force has a reputation to match his name. Abandoned as a baby, he avoids emotional entanglements. Though his partner, DCI Will Casey, doesn't envy Catt his institutional upbringing, his own feckless hippie parents have Willow Tree-a birth name he studiously hides from fellow detectives-at the end of his tether. Evicted from their East Anglia smallholding, they arrive on his doorstep, providing an unwelcome distraction from his latest case: the arson murder of young widow Chandra Bansi and her infant daughter Leela. There are plenty of suspects. Chandra's in-laws, despising her modern views, cast her aside the moment her husband Magan died in an auto accident. And her own parents were strangely distant, putting her up in a dismal apartment rather than in their spacious home. But Casey's boss, Supt. Brown-Smith, responds to a task force report branding the British police inherently racist by asking him to look outside the Asian community for Chandra's killer. So Willow Tree can either bend with the wind, pursuing a case against two young punks whose boasts of torching Chandra's apartment ring false, or face down his superiors to find the real murderer. Though it's not clear why Evans shops Rafferty and Llewellyn (Absolute Poison, 2003), Casey and Catt are worthy successors.</p>",
+      "format": "Hardcover",
+      "overview": "<p>When Chandra Bansi and her baby are burnt to death, the police are anxious to get their race relations right. DCI Casey and his less than politically correct sergeant rapidly come under pressure from their superintendent to put a couple of skinhead thugs behind bars. But there are other, stranger possibilities-and Casey has some less than conventional ways of examining them...</p>",
+      "title_long": "up-in-flames",
+      "dimensions": "5.74 (w) x 8.74 (h) x 0.91 (d)",
+      "pages": 302,
+      "date_published": "October 2005",
+      "authors": [
+        "Geraldine Evans"
+      ],
+      "title": "Up in Flames",
+      "isbn13": "9780727874566",
+      "isbn": "072787456X"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "House Of Nightingales",
+      "pages": 192,
+      "date_published": "1985",
+      "authors": [
+        "Suzanne Ebel"
+      ],
+      "title": "House Of Nightingales",
+      "isbn13": "9780727811608",
+      "isbn": "0727811606"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "The Dark Design",
+      "edition": "1",
+      "pages": 464,
+      "date_published": "1987",
+      "authors": [
+        "Philip Jose Farmer"
+      ],
+      "title": "The Dark Design",
+      "isbn13": "9780727814487",
+      "isbn": "0727814486"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "A Killing Place",
+      "pages": 320,
+      "date_published": "1985",
+      "authors": [
+        "Les Whitten"
+      ],
+      "title": "A Killing Place",
+      "isbn13": "9780727811837",
+      "isbn": "0727811835"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "The Night Shapes",
+      "pages": 128,
+      "date_published": "1979",
+      "authors": [
+        "James Blish"
+      ],
+      "title": "The Night Shapes",
+      "isbn13": "9780727804631",
+      "isbn": "0727804634"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "Sherlock Holmes & The Devils Foot",
+      "pages": 128,
+      "date_published": "1986",
+      "authors": [
+        "Doyle. Sir Arthur Conan"
+      ],
+      "title": "Sherlock Holmes & The Devils Foot",
+      "isbn13": "9780727813350",
+      "isbn": "0727813358"
+    },
+    {
+      "publisher": "Severn House",
+      "format": "Binding",
+      "title_long": "the_red_tide",
+      "date_published": "1995",
+      "subjects": [
+        "Fiction",
+        "Historical"
+      ],
+      "authors": [
+        "Christopher Nicole"
+      ],
+      "title": "The Red Tide",
+      "isbn13": "9780727848505",
+      "isbn": "072784850X"
+    },
+    {
+      "publisher": "Severn House",
+      "synopsys": "A Gift For Aunt Sally Starts A Chain Of Events That Takes Worzel Gummidge, The Talking Scarecrow, From His Home In England To Adventures In And Around An Irish Castle.",
+      "language": "Eng",
+      "title_long": "The Irish Adventures Of Worzel Gummidge",
+      "pages": 158,
+      "date_published": "1984",
+      "subjects": [
+        "Children's Stories, English",
+        "Scarecrows",
+        "Fiction",
+        "Castles"
+      ],
+      "authors": [
+        "Keith Waterhouse"
+      ],
+      "title": "The Irish Adventures Of Worzel Gummidge",
+      "isbn13": "9780727809797",
+      "isbn": "0727809792"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "Death Of An Adept",
+      "edition": "1",
+      "pages": 464,
+      "date_published": "1997",
+      "authors": [
+        "Katherine & Harris, Deborah Turner Kurtz"
+      ],
+      "title": "Death Of An Adept",
+      "isbn13": "9780727852762",
+      "isbn": "0727852760"
+    },
+    {
+      "publisher": "Severn House",
+      "language": "Eng",
+      "title_long": "Seaforth",
+      "pages": 236,
+      "date_published": "1995",
+      "authors": [
+        "Hugh Miller"
+      ],
+      "title": "Seaforth",
+      "isbn13": "9780727847348",
+      "isbn": "0727847341"
+    },
+    {
+      "publisher": "Severn House",
+      "title_long": "Alfred Hitchcock's Alive And Screaming",
+      "pages": 240,
+      "date_published": "1981",
+      "title": "Alfred Hitchcock's Alive And Screaming",
+      "isbn13": "9780727807458",
+      "isbn": "0727807455"
+    },
+    {
+      "publisher": "Severn House",
+      "synopsys": "Stella Whitelaw.",
+      "language": "Eng English",
+      "format": "print",
+      "title_long": "Veil Of Death",
+      "dimensions": "218 p. ; 23 cm.",
+      "pages": 218,
+      "date_published": "2004",
+      "subjects": [
+        "Murder",
+        "Murder--England--Corwall--Fiction",
+        "PR6073.H569 V45 2004",
+        "823.914"
+      ],
+      "authors": [
+        "Whitelaw, Stella."
+      ],
+      "title": "Veil Of Death",
+      "isbn13": "9780727861078",
+      "isbn": "0727861077"
+    },
+    {
+      "publisher": "Severn House",
+      "synopsys": "Matthew Taylor Exchanged His Job As A Butcher For A Career As A Local Insurance Agent, He Never Anticipated That On His First Day He Would Deliver A Stallion Foal And Kill Seven Pigs - All Without Selling A Pennn'orth Of Insurance. But In The 1950's In Rural Delverdale, Deep In The North York Moors, This Is All In A Day's Work And Matthew And His New Family, Wife Evelyn And Baby Paul, Are Happy To Rise To The Challenge. A Colourful Cast Of Characters Including A Woman Who Sees Spies Everywhere And A Tipsy Crockery Salesman Who Poses An Insurance Risk To All Who Encounter Him Combined With The Task Of Persuading Hard-headed Yorkshire Folk To Part With Their Money For Summat Thoo Can't See, Ensure That Matthew Has His Work Cut Out For Him. Nicholas Rhea.",
+      "language": "Eng English",
+      "format": "print",
+      "title_long": "Some Assured",
+      "dimensions": "202 p. ; 23 cm.",
+      "date_published": "2004",
+      "subjects": [
+        "Insurance agents",
+        "Insurance agents--England--Yorkshire--Fiction",
+        "Social life and customs",
+        "PR6068.H4 S66 2004",
+        "823.914"
+      ],
+      "authors": [
+        "Rhea, Nicholas , 1936-2017"
+      ],
+      "title": "Some Assured",
+      "isbn13": "9780727861672",
+      "isbn": "0727861670"
+    },
+    {
+      "publisher": "Severn House",
+      "synopsys": "John Gardner.",
+      "language": "Eng English",
+      "format": "print",
+      "title_long": "Bottled Spider",
+      "dimensions": "434 p. ; 23 cm.",
+      "date_published": "2002",
+      "subjects": [
+        "Women detectives",
+        "Women detectives--England--London--Fiction",
+        "Serial murders",
+        "Serial murders--England--London--Fiction",
+        "History",
+        "823.914"
+      ],
+      "authors": [
+        "Gardner, John , 1926-2007"
+      ],
+      "title": "Bottled Spider",
+      "isbn13": "9780727858290",
+      "isbn": "0727858297"
+    },
+    {
+      "publisher": "Severn House",
+      "synopsys": "Alan Savage.",
+      "language": "Eng English",
+      "format": "print",
+      "title_long": "The Game Of Treachery",
+      "dimensions": "249 p. ; 23 cm.",
+      "pages": 249,
+      "date_published": "2004",
+      "subjects": [
+        "Great Britain. Special Operations Executive",
+        "World War, 1939-1945--Secret service",
+        "World War, 1939-1945--Secret service--Great Britain--Fiction",
+        "World War, 1939-1945--Underground movements",
+        "World War, 1939-1945--Underground movements--France--Fiction"
+      ],
+      "authors": [
+        "Savage, Alan , 1930-"
+      ],
+      "title": "The Game Of Treachery",
+      "isbn13": "9780727860927",
+      "isbn": "0727860925"
+    }
+  ]
+}
