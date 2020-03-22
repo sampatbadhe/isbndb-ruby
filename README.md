@@ -1,6 +1,7 @@
 # Ruby library for ISBNdb API v2
 
 [![Build Status](https://semaphoreci.com/api/v1/sampat-badhe/isbndb-ruby/branches/master/badge.svg)](https://semaphoreci.com/sampat-badhe/isbndb-ruby)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b3e523707c8cbaf73ea3/test_coverage)](https://codeclimate.com/github/sampatbadhe/isbndb-ruby/test_coverage)
 
 * [Homepage](https://isbndb.com/)
 * [API Documentation](https://isbndb.com/apidocs/v2)
