@@ -99,6 +99,15 @@ RSpec.describe ISBNdb::ApiClient do
       end
     end
 
+    context 'when the parsed response is incorrect json' do
+      it 'returns nil' do
+        expect(subject.class).to receive(:get).and_return(response)
+        allow(response).to receive(:parsed_response) { raise JSON::ParserError }
+
+        expect(subject.request('foo', bar: 15)).to be_nil
+      end
+    end
+
     context 'when the response is an array' do
       let(:parsed_response) do
         [
@@ -106,6 +115,7 @@ RSpec.describe ISBNdb::ApiClient do
           { snakeFace: 22 }
         ]
       end
+
       it 'snake all the camels' do
         expect(subject.class).to receive(:get).and_return(response)
         expect(subject.request('foo', bar: 15)).to eq(

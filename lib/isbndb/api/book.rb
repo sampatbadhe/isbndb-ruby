@@ -8,7 +8,7 @@ module ISBNdb
       end
 
       def find(isbn)
-        @client.request("/book/#{isbn}")[:book]
+        @client.request("/book/#{isbn}")
       end
 
       def batch(query, options = {})
