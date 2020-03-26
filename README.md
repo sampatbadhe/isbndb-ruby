@@ -35,7 +35,7 @@ Register for your API KEY at https://isbndb.com/isbn-database
 
 **Initialize**
 ```ruby
-  require 'isbndb-ruby'
+  require 'isbndb'
 
   isbndb_api_client = ISBNdb::ApiClient.new(api_key: api_key)
 ```
