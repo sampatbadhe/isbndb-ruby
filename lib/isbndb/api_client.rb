@@ -11,7 +11,7 @@ module ISBNdb
     end
 
     def request(page, params = {})
-      response = self.class.get(Addressable::URI.parse(page), query: params, headers: headers, timeout: 60)
+      response = self.class.get(Addressable::URI.encode(page), query: params, headers: headers, timeout: 60)
       raise ISBNdb::RequestError.new "HTTP Response: #{response.code}" if response.code != 200
       begin
         self.class.snakify(response.parsed_response)
