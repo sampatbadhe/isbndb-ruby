@@ -1,6 +1,7 @@
 # vendors
 require 'httparty'
 require 'plissken'
+require "addressable/uri"
 
 # helpers w/o dependencies
 require "isbndb/version"
