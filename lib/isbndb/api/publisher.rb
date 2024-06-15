@@ -7,8 +7,8 @@ module ISBNdb
         @client = client
       end
 
-      def find(name)
-        @client.request("/publisher/#{name}")
+      def find(name, options = {})
+        @client.request("/publisher/#{name}", options)
       end
 
       def batch(query, options = {})
