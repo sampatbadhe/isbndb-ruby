@@ -11,7 +11,7 @@ module Helpers
     endpoint = standard_endpoints(request) || request
     WebMock
       .stub_request(:get, endpoint_to_url(endpoint + query_params))
-      .to_return(body: [], status: status, headers: { 'Content-Type' => 'application/json' })
+      .to_return(body: '', status: status, headers: { 'Content-Type' => 'application/json' })
   end
 
   private
